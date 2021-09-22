@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+
+body{
+    margin:  0px;
+    font-family: 'Ubuntu', sans-serif;
+color:black;
+}
+
+:root {
+    --primary-color: #78350F;
+
+}
+
+.navigation {
+    background-color: var(--primary-color);
+
+    font-size: larger;
+    margin-bottom: 5rem;
+    border-bottom-right-radius: 2rem;
+    padding: 0.5rem 0.5rem;
+}
+.major{
+    text-align: center;
+}
+#btn-translate{
+font-size: larger;
+padding: 1rem 1rem;
+margin:  1rem ;
+text-align: center;
+}
+
+
+
+textarea{
+
+    width: 90%;
+    height: 10vh;
+    display: block;
+    margin: 2rem;
+    padding: 1rem;
+    text-align: center;
+    }
+    
+    #output {
+        border: 1px solid black;
+        height: 10vh;
+        width: 90%;
+        margin: 2rem;
+        padding: 1rem;
+    text-align: center;
+    }
+
+.output-nav {
+padding-left: 2rem;
+font-size: larger;
+text-align: center;
+}
+
+
+.button{
+    padding-left: 5 rem;
+}
+    .footer{
+        background-color: var(--primary-color);
+        padding: 2rem 1rem;
+        text-align: center;
+        border-top-left-radius:2rem ;
+    }
