@@ -4,10 +4,11 @@ body{
     margin:  0px;
     font-family: 'Ubuntu', sans-serif;
 color:black;
+background-color:gray;
 }
 
 :root {
-    --primary-color: #78350F;
+    --primary-color: #F3F4F6;
 
 }
 
