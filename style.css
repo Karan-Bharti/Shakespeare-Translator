@@ -45,7 +45,9 @@ textarea{
     #output {
         border: 1px solid black;
         height: 10vh;
+        background-color: white;
         width: 90%;
+        font-weight: bold;
         margin: 2rem;
         padding: 1rem;
     text-align: center;
@@ -58,8 +60,9 @@ text-align: center;
 }
 
 
-.button{
-    padding-left: 5 rem;
+button{
+    text-align: center;
+    margin: auto;
 }
     /* .footer{
         background-color: var(--primary-color);
